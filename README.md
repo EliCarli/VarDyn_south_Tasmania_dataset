@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/986141994.svg)](https://doi.org/10.5281/zenodo.16683835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16683835.svg)](https://doi.org/10.5281/zenodo.16683835)
 
 If you use this dataset, please cite [the Zenodo repository](https://doi.org/10.5281/zenodo.16683835) and Le Guillou et al. (2025) [10.1029/2024MS004689](10.1029/2024MS004689)
 
