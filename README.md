@@ -1,6 +1,6 @@
-[![DOI](https://zenodo.org/badge/986141994.svg)](https://doi.org/10.5281/zenodo.16683574)
+[![DOI](https://zenodo.org/badge/986141994.svg)](https://doi.org/10.5281/zenodo.16683835)
 
-If you use this dataset, please cite [the Zenodo repository](https://doi.org/10.5281/zenodo.16683574) and Le Guillou et al. (2025) [10.1029/2024MS004689](10.1029/2024MS004689)
+If you use this dataset, please cite [the Zenodo repository](https://doi.org/10.5281/zenodo.16683835) and Le Guillou et al. (2025) [10.1029/2024MS004689](10.1029/2024MS004689)
 
 Dataset of ocean sea surface height (SSH) across the Antarctic Circumpolar Current south of Tasmania generated with the VarDyn algorithm.
 - the nadir-only version is created using SARAL/AltiKa, Cryosat-2, HaiYang-2B, Jason-3, Sentinel-3A&B, Sentinel 6A
